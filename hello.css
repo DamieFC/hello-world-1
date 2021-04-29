@@ -1,4 +1,4 @@
-/* Cascade Style Sheets */
+/* CSS */
 body::before{
     content: "Hello, CSS!"
 }
